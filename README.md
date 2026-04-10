@@ -60,7 +60,7 @@
 
 - 最終的に自分の提案したものが関係者全員の合意を得てリリースまで完遂できた。
 
-最終的にfixしたデザインはこちらです。
+最終的にfixしたデザインの一つはこちらです。
 
 <img width="500" height="500" alt="スクリーンショット 2026-04-10 21 45 56" src="https://github.com/user-attachments/assets/b45866ac-1fcf-4087-b228-ddeadf28b1d6" />
 
