@@ -6,12 +6,20 @@
 |------|------|
 | 氏名 | 那仁満徳（なりんまんど） |
 | 生年月日 | 1998年5月20日 |
-| 最終学歴 | 東京理科大学大学院 理工学研究科 修了（2023年3月） |
+| 最終学歴 | 慶應義塾大学大学院 理工学研究科 修了（2023年3月） |
 | 資格 | 基本情報技術者試験（2024年4月）/ TOEIC 860点 |
-| LAPRAS | https://lapras.com/public/XT3QQON |
+| 連絡先 | [XのDM](https://twitter.com/MandeNaren)または [YOUTRUST](https://youtrust.jp/users/narin) |
+
+## SNS一覧
+
+| サービス | URL |
+|----------|-----|
 | X | https://twitter.com/MandeNaren |
 | YOUTRUST | https://youtrust.jp/users/narin |
-| 連絡先 | XのDMまたはYOUTRUST |
+| Speaker Deck | https://speakerdeck.com/narin0520 |
+| LAPRAS | https://lapras.com/public/XT3QQON |
+| Qiita | https://qiita.com/MandoNarin |
+| Zenn | https://zenn.dev/mandenaren |
 
 ## 職務経歴
 
