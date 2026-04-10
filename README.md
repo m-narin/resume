@@ -21,7 +21,7 @@
 | Qiita        | https://qiita.com/MandoNarin      |
 | Zenn         | https://zenn.dev/mandenaren       |
 
-## 仕事の進め方
+## 仕事の進め方・考え方
 
 詳細は [work-style.md](https://github.com/m-narin/resume/blob/main/work-style.md) にまとめています。
 
