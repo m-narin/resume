@@ -13,7 +13,7 @@
 
 - Claude Code
 - GitHub Projects（カンバン・ロードマップによるIssueベースの開発管理）
-- VSCode: エディター（DevContainerやワークスペースによる開発環境構築も）
+- VSCode: エディター（Ruby LSPなどを活用）
 - Docker Desktop: コンテナツール
 - Warp: AIターミナル（コマンドをエディターのように書くことができ、補完が優秀）
 - Talend API Tester: APIテスト用の拡張機能（Cookieなどが自動で追加されるので便利）
@@ -28,7 +28,7 @@
 
 得意順に
 
-- Ruby on Rails（Sorbet: Rubyの型チェッカー）
+- Ruby on Rails（Sorbet: Stripeが開発したRubyの型チェッカー。Rubyを静的型付け言語のように扱える）
 - TypeScript（Vue.js, React, Next.js）
 - GitHub Actions
 - Playwright
