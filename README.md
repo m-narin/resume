@@ -4,9 +4,14 @@
 
 | 項目 | 内容 |
 |------|------|
-| 氏名 | |
-| 生年月日 | |
-| 連絡先 | |
+| 氏名 | 那仁満徳（なりんまんど） |
+| 生年月日 | 1998年5月20日 |
+| 最終学歴 | 東京理科大学大学院 理工学研究科 修了（2023年3月） |
+| 資格 | 基本情報技術者試験（2024年4月）/ TOEIC 860点 |
+| LAPRAS | https://lapras.com/public/XT3QQON |
+| X | https://twitter.com/MandeNaren |
+| YOUTRUST | https://youtrust.jp/users/narin |
+| 連絡先 | XのDMまたはYOUTRUST |
 
 ## 職務経歴
 
