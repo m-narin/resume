@@ -21,6 +21,10 @@
 | Qiita        | https://qiita.com/MandoNarin      |
 | Zenn         | https://zenn.dev/mandenaren       |
 
+## 仕事の進め方
+
+詳細は [work-style.md](https://github.com/m-narin/resume/blob/main/work-style.md) にまとめています。
+
 ## 直近1年間の職務経歴
 
 ### 従業員満足度アンケート機能の開発
