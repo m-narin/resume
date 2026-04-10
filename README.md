@@ -7,7 +7,7 @@
 | 氏名     | 那仁満徳（なりんまんど）                                                                  |
 | 生年月日 | 1998年5月20日                                                                             |
 | 最終学歴 | 慶應義塾大学大学院 理工学研究科 修了（2023年3月）                                         |
-| 資格     | 基本情報技術者試験（2024年4月）/ TOEIC 860点                                              |
+| 資格     | Associate Cloud Engineer (Google Cloud) / 基本情報技術者 / TOEIC 860点                    |
 | 連絡先   | [XのDM](https://twitter.com/MandeNaren)または [YOUTRUST](https://youtrust.jp/users/narin) |
 
 ## SNS一覧
@@ -60,7 +60,9 @@
 
 | 資格名 | 取得時期 |
 | ------ | -------- |
-|        |          |
+| [Associate Cloud Engineer (Google Cloud)](https://google.accredible.com/55c0931d-6446-48b5-afd4-1b8cd56a05a9) | 2023年 |
+| 基本情報技術者 | 2021年 |
+| TOEIC 860点 | 2021年 |
 
 ## 学歴
 
