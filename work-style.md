@@ -20,6 +20,7 @@
 
 - Claude Code
 - GitHub Projects（カンバン・ロードマップによるIssueベースの開発管理）
+- Findy Team+（開発生産性の可視化、日々の振り返りで活用）
 - VSCode: エディター（Ruby LSPなどを活用）
 - Docker Desktop: コンテナツール
 - Warp: AIターミナル（コマンドをエディターのように書くことができ、補完が優秀）
@@ -27,7 +28,6 @@
 - Sequel Ace: DBクライアントツール（MySQL専用だが軽量）
 - Notion: コミュニケーションツールやメモ書きなど
 - Slack: 仕事用
-- Findy Team+（開発生産性の可視化、日々の振り返りで活用）
 - Rectangle: マウス操作で容易に画面分割できる
 - Clipy: コピー履歴を辿れる
 
