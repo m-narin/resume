@@ -11,6 +11,7 @@
 
 ## 利用ツール
 
+- Claude Code
 - GitHub Projects（カンバン・ロードマップによるIssueベースの開発管理）
 - VSCode: エディター（DevContainerやワークスペースによる開発環境構築も）
 - Docker Desktop: コンテナツール
@@ -27,10 +28,14 @@
 
 得意順に
 
-- Ruby on Rails
+- Ruby on Rails（Sorbet: Rubyの型チェッカー）
 - TypeScript（Vue.js, React, Next.js）
 - GitHub Actions
-- PlayWright
+- Playwright
+- OpenAPI(TypeSpec)
+- GCP
+- LangChain
+- BigQuery
 - Python
 - Go
 - Julia
