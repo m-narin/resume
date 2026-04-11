@@ -25,7 +25,7 @@
 
 詳細は [work-style.md](https://github.com/m-narin/resume/blob/main/work-style.md) にまとめています。
 
-## 直近1年間の職務経歴
+## 職務経歴
 
 直近1年間で携わった中から、3つのプロジェクトについて記載しています。
 
