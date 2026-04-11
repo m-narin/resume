@@ -16,10 +16,10 @@
 | ------------ | --------------------------------- |
 | X            | https://twitter.com/MandeNaren    |
 | YOUTRUST     | https://youtrust.jp/users/narin   |
-| Speaker Deck | https://speakerdeck.com/narin0520 |
 | LAPRAS       | https://lapras.com/public/XT3QQON |
 | Qiita        | https://qiita.com/MandoNarin      |
 | Zenn         | https://zenn.dev/mandenaren       |
+| Speaker Deck | https://speakerdeck.com/narin0520 |
 
 ## 仕事の進め方・考え方
 
