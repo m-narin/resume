@@ -37,7 +37,7 @@
 
 得意順に
 
-- Ruby on Rails（Sorbet: Stripeが開発したRubyの型チェッカー。Rubyを静的型付け言語のように扱える）
+- Ruby on Rails（Sorbet: Rubyの型チェッカー）
 - TypeScript（Vue.js, React, Next.js）
 - GitHub Actions
 - Playwright
