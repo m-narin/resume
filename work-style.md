@@ -34,22 +34,6 @@
 - Rectangle: マウス操作で容易に画面分割できる
 - Clipy: コピー履歴を辿れる
 
-## 経験のある言語や技術要素
-
-得意順に
-
-- Ruby on Rails（Sorbet: Rubyの型チェッカー）
-- TypeScript（Vue.js, React, Next.js）
-- GitHub Actions
-- Playwright
-- OpenAPI(TypeSpec)
-- GCP
-- LangChain
-- BigQuery
-- Python
-- Go
-- Julia
-
 ## 早期キャッチアップの工夫
 
 前回転職した際に実施したことは、

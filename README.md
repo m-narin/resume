@@ -5,21 +5,40 @@
 | 項目     | 内容                                                                                      |
 | -------- | ----------------------------------------------------------------------------------------- |
 | 氏名     | 那仁満徳（なりんまんど）                                                                  |
+| 住まい   | 埼玉県                                                                                    |
 | 生年月日 | 1998年5月20日                                                                             |
-| 最終学歴 | 慶應義塾大学大学院 理工学研究科 修了（2023年3月）                                         |
-| 資格     | Associate Cloud Engineer (Google Cloud) / 基本情報技術者 / TOEIC 860点                    |
 | 連絡先   | [XのDM](https://twitter.com/MandeNaren)または [YOUTRUST](https://youtrust.jp/users/narin) |
 
-## SNS一覧
+## 職歴、学歴、インターン歴
 
-| サービス     | URL                               |
-| ------------ | --------------------------------- |
-| X            | https://twitter.com/MandeNaren    |
-| YOUTRUST     | https://youtrust.jp/users/narin   |
-| LAPRAS       | https://lapras.com/public/XT3QQON |
-| Qiita        | https://qiita.com/MandoNarin      |
-| Zenn         | https://zenn.dev/mandenaren       |
-| Speaker Deck | https://speakerdeck.com/narin0520 |
+| 期間                | 内容                                                                     |
+| ------------------- | ------------------------------------------------------------------------ |
+| 2024年7月~現在      | 株式会社クロスビット Webエンジニア（シフト管理SaaSの開発）               |
+| 2022年7月~2024年6月 | 株式会社BuySell Technologies Webエンジニア（予約買取業務システムの開発） |
+| 2021年~2023年       | 慶應義塾大学大学院 理工学研究科修了（情報系研究室でPythonやJuliaを使用） |
+| 2020年5月~2022年5月 | 株式会社Scovilleで長期インターン プログラミングスクールメンター          |
+| 2017年~2021年       | 慶應義塾大学 理工学部 管理工学科卒業                                     |
+| 2014年~2017年       | 東京都立日比谷高等学校卒業                                               |
+
+## 経験のある言語や技術
+
+- Ruby on Rails 5年以上
+- TypeScript(Vue.js, React, Next.js) 3年以上
+- GitHub Actions
+- Playwright
+- OpenAPI(TypeSpec)
+- GCP
+- BigQuery
+- LangChain
+- Python
+- Go
+- Julia
+
+資格
+
+- 基本情報技術者
+- Associate Cloud Engineer (Google Cloud)
+- TOEIC 860点
 
 ## 仕事の進め方・考え方
 
@@ -174,13 +193,13 @@
 
 今年から青色申告するため、経理や会計分野も学習中。freee会計を利用。
 
-## 職歴、学歴、インターン歴
+## SNS一覧
 
-| 期間                | 内容                                                                     |
-| ------------------- | ------------------------------------------------------------------------ |
-| 2024年7月~現在      | 株式会社クロスビット Webエンジニア（シフト管理SaaSの開発）               |
-| 2022年7月~2024年6月 | 株式会社BuySell Technologies Webエンジニア（予約買取業務システムの開発） |
-| 2021年~2023年       | 慶應義塾大学大学院 理工学研究科（情報系研究室でPythonやJuliaを使用）     |
-| 2020年5月~2022年5月 | 株式会社Scovilleで長期インターン プログラミングスクールメンター          |
-| 2017年~2021年       | 慶應義塾大学 理工学部 管理工学科                                         |
-| 2014年~2017年       | 東京都立日比谷高等学校                                                   |
+| サービス     | URL                               |
+| ------------ | --------------------------------- |
+| X            | https://twitter.com/MandeNaren    |
+| YOUTRUST     | https://youtrust.jp/users/narin   |
+| LAPRAS       | https://lapras.com/public/XT3QQON |
+| Qiita        | https://qiita.com/MandoNarin      |
+| Zenn         | https://zenn.dev/mandenaren       |
+| Speaker Deck | https://speakerdeck.com/narin0520 |
