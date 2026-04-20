@@ -19,21 +19,6 @@
 - 一般化できそうな学びは技術ブログで積極的にOutputしています。記事はGitHubリポジトリでCLI管理しています（例: [qiita-blog](https://github.com/m-narin/qiita-blog)）。
 - 睡眠時間や運動習慣、プライベートも大事にしており、結果として中長期の安定した稼働（=健康）や関係性に繋がると考えています。
 
-## 利用ツール
-
-- Claude Code
-- GitHub Projects（カンバン・ロードマップによるIssueベースの開発管理）
-- Findy Team+（開発生産性の可視化、日々の振り返りで活用）
-- VSCode: エディター（Ruby LSPなどを活用）
-- Docker Desktop: コンテナツール
-- Warp: AIターミナル（コマンドをエディターのように書くことができ、補完が優秀）
-- Talend API Tester: APIテスト用の拡張機能（Cookieなどが自動で追加されるので便利）
-- Sequel Ace: DBクライアントツール（MySQL専用だが軽量）
-- Notion: コミュニケーションツールやメモ書きなど
-- Slack: 仕事用
-- Rectangle: マウス操作で容易に画面分割できる
-- Clipy: コピー履歴を辿れる
-
 ## 早期キャッチアップの工夫
 
 前回転職した際に実施したことは、
