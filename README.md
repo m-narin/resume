@@ -16,7 +16,7 @@
 ## 活かせる経験・知識・技術
 
 - フロント〜バックエンドにまたがる幅広い開発経験
-  Ruby on Rails 5年以上、TypeScript(Vue.js / React / Next.js) 3年以上の実務経験を持ち、フロントエンドからバックエンドまで一貫した開発が可能。GCP・BigQuery・GitHub Actions・Playwright・OpenAPI(TypeSpec)など周辺技術にも精通。
+  Ruby on Rails 5年以上、TypeScript(Vue.js / React / Next.js) 3年以上の実務経験を持ち、フロントエンドからバックエンドまで一貫した開発が可能。GCP・BigQuery・GitHub Actions・Playwright・OpenAPI(TypeSpec)など周辺技術も実務で活用。
 
 - 要件定義からリリースまでを一貫してリードする推進力
   従業員満足度アンケート機能では、デザイナー不足の環境下でmock UIによるすり合わせを主導し、Biz担当者との要件調整・設計・実装・リリースまでを一貫して担当。関係者全員の合意形成とスムーズなリリースを実現。
@@ -45,6 +45,7 @@
 
 - Ruby on Rails 5年以上
 - TypeScript(Vue.js, React, Next.js) 3年以上
+- Docker
 - GitHub Actions
 - Playwright
 - OpenAPI(TypeSpec)
