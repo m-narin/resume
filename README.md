@@ -52,6 +52,8 @@
 - OpenAPI(TypeSpec)
 - GCP
 - BigQuery
+- Datadog
+- Sentry
 - LangChain
 - Python
 - Go
@@ -66,7 +68,7 @@
 ## 利用ツール
 
 - Claude Code
-- GitHub Projects（カンバン・ロードマップによるIssueベースの開発管理）
+- GitHub Project（カンバン・ロードマップによるIssueベースの開発管理）
 - Findy Team+（開発生産性の可視化、日々の振り返りで活用）
 - VSCode: エディター（Ruby LSPなどを活用）
 - Docker Desktop: コンテナツール
