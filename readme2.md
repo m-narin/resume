@@ -53,6 +53,7 @@
 - Ruby on Rails 5年以上
 - TypeScript(Vue.js, React, Next.js) 3年以上
 - Docker
+- アジャイル開発
 - GitHub Actions
 - Playwright
 - OpenAPI(TypeSpec)
@@ -73,15 +74,19 @@
 
 ## 利用ツール
 
-- Claude Code（AIコーディングエージェント）
+- Claude Code（コーディングや要件仕様整理など）
 - GitHub Project（カンバン・ロードマップによるIssueベースの開発管理）
-- 開発生産性可視化ツール（サイクルタイム等の計測、日々の振り返りで活用）
+- Findy Team+（開発生産性の可視化）
+- Figma（デザインツール、FigJamでSprintの振り返りなど）
 - VSCode: エディター（Ruby LSPなどを活用）
-- Docker Desktop: コンテナツール
-- AIターミナル（コマンドをエディターのように書くことができ、補完が優秀）
-- APIテスト用のブラウザ拡張機能（Cookieなどが自動で追加されるので便利）
-- DBクライアントツール（MySQL専用の軽量クライアント）
-- ドキュメント / チャットツール（コミュニケーションやメモ書きなど）
+- Docker Desktop, OrbStack: コンテナツール
+- Warp: AIターミナル（コマンドをエディターのように書くことができ、補完が優秀）
+- Talend API Tester: APIテスト用の拡張機能（Cookieなどが自動で追加されるので便利）
+- Sequel Ace: DBクライアントツール（MySQL専用だが軽量）
+- Notion: コミュニケーションツール、資料作成
+- Slack: 仕事用
+- Rectangle: マウス操作で容易に画面分割できる
+- Clipy: コピー履歴を辿れる
 
 ## 仕事の進め方・考え方
 
